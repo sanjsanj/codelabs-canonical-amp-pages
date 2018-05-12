@@ -1,0 +1,23 @@
+{
+  "name": "codelabs-canonical-amp-pages",
+  "version": "1.0.0",
+  "description": "https://codelabs.developers.google.com/codelabs/amp-beautiful-interactive-canonical/index.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjsanj/codelabs-canonical-amp-pages.git"
+  },
+  "author": "sanjsanj@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanjsanj/codelabs-canonical-amp-pages/issues"
+  },
+  "homepage": "https://github.com/sanjsanj/codelabs-canonical-amp-pages#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
